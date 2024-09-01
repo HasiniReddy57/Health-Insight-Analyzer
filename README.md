@@ -22,7 +22,7 @@ This Streamlit app leverages Google Generative AI's Gemini model to analyze medi
 ### Clone the Repository:
 
 ```bash
-git clone [https://github.com/<your-username>/health-insight-analyzer.git](https://github.com/HasiniReddy57/Health-Condition-Prediction-App.git)
+git clone https://github.com/HasiniReddy57/Health-Condition-Prediction-App.git
 ```
 
 ### Create an API Key:
