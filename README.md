@@ -1,4 +1,3 @@
-```markdown
 # Health Insight Analyzer: AI-Powered Medical Image Analysis
 
 This Streamlit app leverages Google Generative AI's Gemini model to analyze medical images and provide insights into potential health conditions.
