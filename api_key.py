@@ -1,1 +1,1 @@
-apikey = "AIzaSyDX7SIGxLY2UevS9Reup9gPp0DaMRktgIg"
+apikey = "<your-api-key>"
