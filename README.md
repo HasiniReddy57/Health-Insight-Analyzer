@@ -15,7 +15,7 @@ Streamlit (pip install streamlit)
 Google Generative AI API Key (obtain from Google Cloud Console)
 Clone the Repository:
 Bash
-git clone HasiniReddy57/Health-Condition-Prediction-App
+git clone [HasiniReddy57/Health-Condition-Prediction-App](https://github.com/HasiniReddy57/Health-Condition-Prediction-App.git)
 Use code with caution.
 
 Create an API Key:
