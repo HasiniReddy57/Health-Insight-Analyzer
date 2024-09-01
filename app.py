@@ -53,26 +53,40 @@ st.set_page_config(layout="centered", page_title="Health Insight Analyzer", page
 # Adding custom CSS for better styling
 st.markdown("""
     <style>
+    body {
+        background-color: #1C1C1E;  /* Dark background for contrast */
+    }
     .title {
         font-size: 2em;
         font-weight: bold;
-        color: #1e90ff;
+        color: #76C7C0;  /* Calming teal for the title */
         text-align: center;
     }
     .subheader {
         font-size: 1.2em;
-        color: #;
+        color: #A6A6A6;  /* Soft grey for the subheader */
         text-align: center;
+        margin-bottom: 30px;
     }
     .upload-btn {
         display: flex;
         justify-content: center;
         margin-top: 20px;
     }
+    .stButton>button {
+        background-color: #76C7C0;  /* Teal button color */
+        color: #FFFFFF;  /* White text for contrast */
+        border-radius: 8px;  /* Slightly rounded corners */
+        padding: 0.75em 1.5em;  /* Padding for a more clickable button */
+        font-size: 1em;  /* Larger font size for readability */
+    }
+    .stButton>button:hover {
+        background-color: #63A5A0;  /* Slightly darker teal on hover */
+    }
     .footer {
         text-align: center;
         font-size: 0.9em;
-        color: #666;
+        color: #A6A6A6;  /* Soft grey for the footer text */
         margin-top: 30px;
     }
     </style>
