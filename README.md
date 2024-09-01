@@ -38,12 +38,6 @@ apikey = "<your-api-key>"
 streamlit run app.py
 ```
 
-## Demo
-
-[![Watch the video]()](https://drive.google.com/file/d/1CbsFgw-25cR-M99WDLDfqQ8IF5XtYmbQ/view?usp=sharing)
-## Video Demo
-![health-insight-demo](https://drive.google.com/file/d/1CbsFgw-25cR-M99WDLDfqQ8IF5XtYmbQ/view?usp=sharing)
-
 ## Tech Stack
 
 ### Frontend:
