@@ -40,7 +40,7 @@ streamlit run app.py
 
 
 ## Video Demo
-![story_gen](https://github.com/HasiniReddy57/Health-Insight-Analyzer/Demo.mp4)
+![health-insight-demo](https://github.com/HasiniReddy57/Health-Insight-Analyzer/Demo.mp4)
 
 ## Tech Stack
 
