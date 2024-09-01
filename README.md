@@ -38,10 +38,9 @@ apikey = "<your-api-key>"
 streamlit run app.py
 ```
 
-<video width="600" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+## Video Demo
+![story_gen](https://github.com/HasiniReddy57/Health-Insight-Analyzer/Demo.mp4)
 
 ## Tech Stack
 
