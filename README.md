@@ -39,7 +39,7 @@ streamlit run app.py
 ```
 
 <video width="600" controls>
-  <source src="media/health-insight-demo.mp4" type="video/mp4">
+  <source src="Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
