@@ -77,7 +77,7 @@ Check out this demonstration video to see Health Insight Analyzer in action!
 
 [![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/Health-Insight-Analyzer/blob/main/Health%20Insight%20Analyzer%20Image.png)](https://drive.google.com/file/d/1CbsFgw-25cR-M99WDLDfqQ8IF5XtYmbQ/view?usp=drive_link)
 
-In this video, you can see how real-time interactions work within the VR meeting rooms, as well as a demonstration of the touch feedback system using ESP32-driven haptic devices.
+In this video, you can see a demonstration of real-time medical image analysis using the Health Insight Analyzer, showcasing the seamless integration of AI-powered insights via the Google Gemini API and the automated deployment pipeline, ensuring high performance and scalability.
 
 ## Contributing
 **Feel free to contribute or extend this project! Follow the below steps to proceed:**
