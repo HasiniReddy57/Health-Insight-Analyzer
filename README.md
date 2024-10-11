@@ -72,4 +72,21 @@ This is a showcase application and not intended for medical diagnosis. Always co
 - Explore integrating additional functionalities like image pre-processing or visualization tools.
 - Consider implementing a user interface for uploading multiple images.
 
-Feel free to contribute or extend this project!
+## Demonstration Video
+Check out this demonstration video to see Health Insight Analyzer in action!
+
+[![Touch-Feedback-for-Virtual-Reality/Assets/Spinoverse.png](https://github.com/HasiniReddy57/Touch-Feedback-for-Virtual-Reality/blob/main/Assets/Spinoverse.png)](https://drive.google.com/file/d/1NQIL3MsY1MfwYd5NgHR7iM7MOYJ7xqmY/view)
+
+In this video, you can see how real-time interactions work within the VR meeting rooms, as well as a demonstration of the touch feedback system using ESP32-driven haptic devices.
+
+## Contributing
+**Feel free to contribute or extend this project! Follow the below steps to proceed:**
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
